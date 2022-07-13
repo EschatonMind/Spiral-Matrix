@@ -1,0 +1,4 @@
+﻿  Source.cpp
+D:\Reza\Game Projects\C++\Basic\Spiral-Matrix\Source.cpp(6,26): warning C4267: 'initializing': conversion from 'size_t' to 'int', possible loss of data
+D:\Reza\Game Projects\C++\Basic\Spiral-Matrix\Source.cpp(8,29): warning C4267: 'initializing': conversion from 'size_t' to 'int', possible loss of data
+  Spiral-Matrix.vcxproj -> D:\Reza\Game Projects\C++\Basic\Spiral-Matrix\x64\Debug\Spiral-Matrix.exe
